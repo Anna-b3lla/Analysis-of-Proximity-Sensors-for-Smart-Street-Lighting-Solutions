@@ -10,7 +10,7 @@ Modern cities face growing demands for energy-efficient and intelligent solution
 
 Using various sensors such as **PIR**, **ultrasonic**, **radar**, and **LaserPing**, the system detects pedestrians and vehicles, dynamically adjusting the lighting. The project also includes the integration of multiple hardware and software components to achieve a reliable, modular, and scalable design.  
 
-The code, located in the main repository, handles sensor data collection, decision-making, and communication with the ESP32. It can be accessed [thingsboard_thesis_project.ino](./code/SmartLightingSystem.ino).  
+The code, located in the main repository, handles sensor data collection, decision-making, and communication with the ESP32. It can be accessed [Project.ino](Project.ino).
 
 ---
 
@@ -33,8 +33,6 @@ The code, located in the main repository, handles sensor data collection, decisi
 - **LaserPing Sensor**: Provides precise short-range measurements.  
 - **RD03 Radar Sensor**: Enables long-range and high-reliability motion detection.  
 - **Additional Components**: Breadboard, jumper wires, and a regulated power supply.  
-
-For detailed wiring and hardware setup, refer to the `HardwareSetup.md` file in the repository.  
 
 ---
 
