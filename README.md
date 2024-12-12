@@ -1,4 +1,4 @@
-# Sensor-Board-Thesis  
+# Analysis-of-Proximity-Sensors-for-Smart-Street-Lighting-Solutions  
 
 This repository is dedicated to my final-year thesis project titled **"Analysis of Proximity Sensors for Smart Street Lighting Solutions"**, completed at **Savonia University of Applied Sciences**. The project explores the design, development, and evaluation of an IoT-based smart lighting system utilizing proximity sensors and an ESP32 microcontroller. The goal is to improve streetlight automation and energy efficiency, laying the groundwork for scalable smart city infrastructure.  
 
